@@ -68,11 +68,11 @@
 // додати буль з ключем: like flowers
 // вивести результат в консоль
 
-// let user = {};
-// user.name = "Olga";
-// user.age = 41;
-// user.city = "Ternopil";
-// console.log(user);
+let user = {};
+user.name = "Olga";
+user.age = 41;
+user.city = "Ternopil";
+console.log(user);
 
 // delete user.city;
 // console.log(user);
